@@ -1,0 +1,10 @@
+.highlight:hover{
+  font-weight:bold;
+  background-color: #fabb00;
+}
+
+p {
+  width: 100px;
+  display: block;
+  text-align: left;
+}
