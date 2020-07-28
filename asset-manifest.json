@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/funnysite-redux/static/css/main.7afd28ac.chunk.css",
+    "main.js": "/funnysite-redux/static/js/main.0bad3771.chunk.js",
+    "main.js.map": "/funnysite-redux/static/js/main.0bad3771.chunk.js.map",
+    "runtime-main.js": "/funnysite-redux/static/js/runtime-main.f22403cd.js",
+    "runtime-main.js.map": "/funnysite-redux/static/js/runtime-main.f22403cd.js.map",
+    "static/css/2.3c03f26f.chunk.css": "/funnysite-redux/static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0943a370.chunk.js": "/funnysite-redux/static/js/2.0943a370.chunk.js",
+    "static/js/2.0943a370.chunk.js.map": "/funnysite-redux/static/js/2.0943a370.chunk.js.map",
+    "index.html": "/funnysite-redux/index.html",
+    "precache-manifest.f978df60de708b3c56d2ce9c81b76ae0.js": "/funnysite-redux/precache-manifest.f978df60de708b3c56d2ce9c81b76ae0.js",
+    "service-worker.js": "/funnysite-redux/service-worker.js",
+    "static/css/2.3c03f26f.chunk.css.map": "/funnysite-redux/static/css/2.3c03f26f.chunk.css.map",
+    "static/css/main.7afd28ac.chunk.css.map": "/funnysite-redux/static/css/main.7afd28ac.chunk.css.map",
+    "static/js/2.0943a370.chunk.js.LICENSE.txt": "/funnysite-redux/static/js/2.0943a370.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/funnysite-redux/static/media/Fondamento-Regular.4086bfec.ttf",
+    "static/media/logo_transparent.png": "/funnysite-redux/static/media/logo_transparent.ff1e85dc.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f22403cd.js",
+    "static/css/2.3c03f26f.chunk.css",
+    "static/js/2.0943a370.chunk.js",
+    "static/css/main.7afd28ac.chunk.css",
+    "static/js/main.0bad3771.chunk.js"
+  ]
+}
