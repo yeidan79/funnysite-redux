@@ -2,8 +2,8 @@
 
 You can clone this repository and then run:
 
-```
-npm install
-npm start
-```
-Or you can just click in the link of github pages [Funny site](yeidan79.github.io/funnysite-redux/).
+
+```npm install```
+```npm start```
+
+Or you can just click in the link of github pages and see this [this funny site!](https://yeidan79.github.io/funnysite-redux/) in action! 
